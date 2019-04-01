@@ -9,34 +9,34 @@ z2
 cModel Technology
 dC:/Users/siddi/git/vlsi_2_project
 Esmoother
-Z0 w1554076770
+Z0 w1554100731
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 Z3 dC:/Users/siddi/vsli/homework/homework7
-Z4 8C:\Users\siddi\vsli\homework\homework7\hw7
-Z5 FC:\Users\siddi\vsli\homework\homework7\hw7
+Z4 8C:/Users/siddi/vsli/homework/homework7/hw7.vhd
+Z5 FC:/Users/siddi/vsli/homework/homework7/hw7.vhd
 l0
 L3
-VgN8if3H`Y24cl>h4SDQmN0
-!s100 m4omh4iK_hWKMil>4:2?o2
+VFXI5jC0;gYz6PIXmlMJ]81
+!s100 EY1EgKiS;P;MoGR=44WL@3
 Z6 OP;C;10.4a;61
 32
-Z7 !s110 1554076778
+Z7 !s110 1554100744
 !i10b 1
-Z8 !s108 1554076778.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\siddi\vsli\homework\homework7\hw7|
-Z10 !s107 C:\Users\siddi\vsli\homework\homework7\hw7|
+Z8 !s108 1554100743.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/siddi/vsli/homework/homework7/hw7.vhd|
+Z10 !s107 C:/Users/siddi/vsli/homework/homework7/hw7.vhd|
 !i113 1
 Z11 o-work work -2002 -explicit -O0
 Z12 tExplicit 1
 Asmoother_arch
 R1
 R2
-Z13 DEx4 work 8 smoother 0 22 gN8if3H`Y24cl>h4SDQmN0
-l10
-L8
-Z14 VMb9S_DalL>Boj4U^oZBQY1
-Z15 !s100 neeLNC3:1=Y_<IY]TW6cU3
+DEx4 work 8 smoother 0 22 FXI5jC0;gYz6PIXmlMJ]81
+l47
+L7
+VIi93295^8EhC3PkiBA69`3
+!s100 1aM0f8zCokR6US4d;m0YN0
 R6
 32
 R7
